@@ -5,4 +5,4 @@ Given that, the inputs are in the range [0,100], there will be 201 possible outp
 
 In this project, I achieved 94% accuracy on the training dataset, almost 100% accuracy on testing dataset. Well, the training cost is a little high, a medium GPU EC2 instance spent about 1.5 hours on the training.
 
-The result can defintely improve further with techniques that maybe we can convert the input to binaries instead of just normalize it. Mostly important, this project is really fun!
+The result can defintely improve further with techniques that maybe we can convert the input to binaries instead of just normalize it. The most important thing in this project is, it's super fun!
